@@ -1,0 +1,9 @@
+{
+  "best_epoch": 25,
+  "best_validation_loss": 0.2047791817086808,
+  "best_validation_accuracy": 1.0,
+  "test_loss": 0.20470204840346082,
+  "test_accuracy": 1.0,
+  "training_seconds": 39.89004329999989,
+  "checkpoint": "C:\\Users\\JuanJo\\PycharmProjects\\smart-attendance-pytorch\\models\\recognition\\mobilenet_v3_face_best.pth"
+}

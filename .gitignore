@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Datasets and biometric/student data
+data/
+dataset/
+datasets/
+faces/
+face_images/
+student_images/
+attendance_records/
+
+# Training outputs
+runs/
+outputs/
+
+# Model weights
+*.pt
+*.pth
+
+# Temporary files
+*.log
+*.tmp
+
+# ============================================
+# Sensitive biometric / student information
+# ============================================
+
+# Face datasets and student images
+backup_a002/
+data/
+dataset/
+datasets/
+faces/
+face_images/
+student_images/
+attendance_records/
+
+# Attendance reports / generated records
+reports/attendance/
+
+# Backups containing local/project data
+backup_final/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets and local configuration
+.env
+.env.*

@@ -1,0 +1,41 @@
+{
+  "test_loss": 0.20470204840346082,
+  "test_accuracy": 1.0,
+  "confusion_matrix": [
+    [
+      22,
+      0
+    ],
+    [
+      0,
+      19
+    ]
+  ],
+  "classification_report": {
+    "A001": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 22.0
+    },
+    "A002": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 19.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 41.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 41.0
+    }
+  }
+}
